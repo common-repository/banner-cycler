@@ -1,0 +1,31 @@
+#pacycler-admin #slide-list img.slide {
+	max-height:100px;
+	max-width:100px;
+}
+
+#pacycler-admin img.slide {
+	max-height:300px;
+	max-width:300px;
+}
+
+#pacycler-admin .enable {
+	vertical-align:middle;
+	width:10px;
+}
+
+#pacycler_htmltemplate,
+#pacycler_itemtemplate, 
+#pacycler_jquerycall {
+	height:150px;
+}
+
+#slide-textfields, 
+#slide-imagefields {
+	width:370px;	
+}
+
+
+#pabc-edit-slide span.note {
+	color:#666666;
+	display:block;
+}
